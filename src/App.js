@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Signup from './Signup';
 import Login from './Login';
 import Forget from './Forget';
-import image from './image.jpg';
 // import image2 from './image2';
 import { BrowserRouter as Router,Routes,Route,Link } from 'react-router-dom';
 

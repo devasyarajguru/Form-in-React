@@ -1,7 +1,7 @@
 import React from 'react';
 import './external.css'
-import { BrowserRouter as Router,Routes,Route,Link } from 'react-router-dom';
-import Login from './Login';
+import { Link } from 'react-router-dom';
+// import Login from './Login';
 import {BsFillPersonFill} from "react-icons/bs";
 import {HiOutlineMail} from "react-icons/hi";
 import {BsKeyFill} from "react-icons/bs";

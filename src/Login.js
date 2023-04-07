@@ -1,6 +1,6 @@
 import React from 'react';
 import './external.css';
-import { BrowserRouter as Router,Routes,Route,Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import {FaArrowCircleLeft} from "react-icons/fa";
 import {HiOutlineMail} from "react-icons/hi";
 import {BsKeyFill} from "react-icons/bs";

@@ -1,6 +1,6 @@
 import React from 'react';
 import './external.css'
-import { BrowserRouter as Router,Routes,Route,Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import {FaArrowCircleLeft} from "react-icons/fa";
 
 class Forget extends React.Component {
